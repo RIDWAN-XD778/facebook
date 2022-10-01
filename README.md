@@ -1,10 +1,10 @@
 # PAKE DOANG NGGA FOLLOW, KONTOL LOH
 
-![deskripsi gambar](https://i.ibb.co/84F48SP/Screenshot-2022-03-22-09-19-37-175-com-termux.png)
+![deskripsi gambar](https://i.ibb.co/IMG-20221001-WA0104.jpg)
 
 🌟🌟🌟🌟🌟😍🌟😍😍🌟🌟🌟🌟🌟
 
-![deskripsi gambar](https://i.ibb.co/FB_IMG_16635739683331146.jpg) 
+![deskripsi gambar](https://i.ibb.co/F) 
 
 # BAHAN-BAHAN
 
