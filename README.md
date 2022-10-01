@@ -1,29 +1,21 @@
+# PAKE DOANG NGGA FOLLOW, KONTOL LOH
 
-# Warning
->> Script free ya jadi ok/cp Syukri aja macih ayang 😍
-# Instalation
-Download apk termux di sini supaya tidak eror
-[Teken ini](https://f-droid.org/repo/com.termux_117.apk)👈
-```bash
-$ cd
-$ pkg update && apt upgrade
-$ pkg install python git
-$ pkg install play-audio
-$ pip install requests mechanize
-$ pip install rich bs4
-$ pip install --upgrade pip
-$ git clone https://github.com/RIDWAN-XD778/facebook
-$ ls ( L kecil )
-$ cd ju
-$ python ju
-```
-## untunk update
+![deskripsi gambar](https://i.ibb.co/84F48SP/Screenshot-2022-03-22-09-19-37-175-com-termux.png)
+
+🌟🌟🌟🌟🌟😍🌟😍😍🌟🌟🌟🌟🌟
+
+![deskripsi gambar](https://i.ibb.co/FB_IMG_16635739683331146.jpg) 
+
+# BAHAN-BAHAN
+
+Download apk termuxnya disini biar ngga eror🌟
+
+[Download Aplikasi](https://f-droid.org/repo/com.termux_117.apk)👈
 ```php
-$ cd
-$ cd ju
-$ ls ( L kecil ) 
-$ git pull
-$ python ju
-```
-## SEMOGA IJO-IJO
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
+$ apt update && apt upgrade -y 
+$ apt install git python -y
+$ git clone https://github.com/Al-Vino/cracking
+$ cd cracking
+$ python mhf-2.py
+
+🌟KASIH BINTANG WOY🌟
