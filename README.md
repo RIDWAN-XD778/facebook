@@ -23,9 +23,14 @@
 
 <h3 align="left">Harga License :</h3>
 
-- 1 Bulan    : 75k
+- 1 minggu   : 75K
 
-- Permanent + Open Source : 150K
+- 1 Bulan    : 100K
+
+- Permanent + Open Source : 200K
+<h3 align="left">MAHAL BANGET BANG :</h3>
+
+- HARGA JAUH DI ATAS RASA BANG
 
 <h3 align="left">Buy lisen di 👇:</h3>
 
