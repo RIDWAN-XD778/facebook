@@ -34,4 +34,4 @@
 
 <h3 align="left">Buy lisen di 👇:</h3>
 
-[![](https://img.shields.io/badge/Whatsapp-SINI-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283862287464?text=Aku+Mau+Beli+Lisensi+)
+[![](https://img.shields.io/badge/Whatsapp-SINI-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6283862287464?text=coba+liat+hasil+sekalian+mau+beli+lisensi+nya+bang+)
