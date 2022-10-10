@@ -1,4 +1,3 @@
-<h3 align="left">SCRIPT CMBF SUDAH UPDATE!!! :<h3>
 <h3 align="left">Cara Install Script :</h3>
 
 - Download Apk Termuxnya Disini Biar Engga Eror <a href="https://f-droid.org/repo/com.termux_117.apk">Klik Disini</a>
@@ -23,9 +22,8 @@
 
 <h3 align="left">Harga License :</h3>
 
-- 1 minggu   : 75K
 
-- 1 Bulan    : 100K
+- 1 Bulan    : 75
 
 - Permanent + Open Source : 200K
 <h3 align="left">MAHAL BANGET BANG :</h3>
